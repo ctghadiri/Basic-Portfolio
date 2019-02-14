@@ -34,7 +34,31 @@ header {
     border-color: #dddddd;
 }
 
+.profile-img {
+    float: left;
+}
+
+.img-1 {
+
+}
+
+.img-2 {
+
+}
+
+.img-3 {
+
+}
+
+.img-4 {
+
+}
+
+.img-5 {
+    
+}
+
 footer {
     margin: 0;
-    background-color: #666666
+    background-color: #666666;
 }
