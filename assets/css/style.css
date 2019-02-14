@@ -23,12 +23,30 @@ h2 {
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
+ul {
+    list-style-type: none;
+}
+
+li a {
+    display: inline;
+    width: 50px;
+    float: right;
+    padding: 20px;
+    margin: 10px;
+}
+
 header {
+    height: 80px;
     margin-bottom: 20px;
     background-color: #ffffff;
     border-bottom-style: solid;
     border-width: 10px;
     border-color: #cccccc;
+}
+
+.nav {
+    width: 960px;
+    margin: auto;
 }
 
 .content {
@@ -63,7 +81,7 @@ header {
 
 footer {
     margin-top: 40px;
-    padding-top:80px;
+    padding-top:60px;
     border-top-style: solid;
     border-width: 20px;
     border-color: #4aaaa5;
