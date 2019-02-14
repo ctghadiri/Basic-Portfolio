@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+    margin: auto;
+}
+body {
+    background-image: url("../images/prism.png");
+}
+
+.content {
+    width: 960px;
+}
